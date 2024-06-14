@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quotes.git/static/css/main.e55507b7.css",
+    "main.js": "/Quotes.git/static/js/main.77418344.js",
+    "static/js/453.315ff4db.chunk.js": "/Quotes.git/static/js/453.315ff4db.chunk.js",
+    "index.html": "/Quotes.git/index.html",
+    "main.e55507b7.css.map": "/Quotes.git/static/css/main.e55507b7.css.map",
+    "main.77418344.js.map": "/Quotes.git/static/js/main.77418344.js.map",
+    "453.315ff4db.chunk.js.map": "/Quotes.git/static/js/453.315ff4db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55507b7.css",
+    "static/js/main.77418344.js"
+  ]
+}
